@@ -20,7 +20,7 @@ function Write-Emphasized ([string] $Text) {
 
 function Write-Done {
   Write-Host " > " -NoNewline
-  Write-Host "OK" -ForegroundColor "Green"
+  Write-Host "OK" -ForegroundColor "White"
 }
 
 if ($PSVersionTable.PSVersion.Major -gt $PSMinVersion) {
