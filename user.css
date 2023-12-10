@@ -3,8 +3,6 @@
   font-family: 'Open Sans', sans-serif !important;
 }
 
-:root,
-.encore-dark-theme .encore-bright-accent-set,
 .progress-bar,
 .progress-bar:hover,
 .hW9km7ku6_iggdWDR_Lg {
@@ -30,18 +28,7 @@ input:checked~.x-toggle-indicatorWrapper {
   color: var(--spice-contrast) !important;
 }
 
-.button-module__button___hf2qg_marketplace {
-  color: black;
-  background-color: var(--spice-color)
-}
 
-.Dropdown-menu {
-  background-color: #282828;
-  max-height: 30vh;
-  max-width: 350px; 
-  min-width: 145px;
-  border: 4px;
-}
 
 
 .__color, .HbKLiGoYM4dpuK8L4TMX, .connect-device-list-item--active,
@@ -56,10 +43,7 @@ button[aria-label="Playing"],
   fill: var(--spice-color) !important;
 }
 
-.__color_contrast, .main-connectBar-connectBar.encore-bright-accent-set.mVVxN9ZfIRjiQfDuzPCZ.main-type-mesto {
-  color: var(--spice-contrast) !important;
-  fill: var(--spice-contrast) !important;
-}
+
 
 .__heart, .control-button-heart,
 .main-addButton-active {
@@ -72,14 +56,6 @@ button[aria-label="Playing"],
 .main-actionBarBackground-background {
   background-color: transparent !important;
   background: transparent !important;
-}
-
-.__scale_hover:hover, .main-playButton-PlayButton:hover,
-.main-playButton-primary:hover,
-.ButtonInner-sc-14ud5tc-0:hover,
-.main-button-primary:hover, .HbKLiGoYM4dpuK8L4TMX:hover {
-  -webkit-transform: scale(1.1) !important;
-          transform: scale(1.1) !important;
 }
 
 .main-topBar-background {
@@ -122,12 +98,4 @@ button[aria-label="Playing"],
 .main-trackList-trackListRow.main-trackList-active .main-trackList-playingIcon {
   -webkit-filter: brightness(1000%) !important;
           filter: brightness(1000%) !important;
-}
-
-#spicetify-group-session-menu > img {
-  -webkit-filter: grayscale(100%) contrast(200%) !important;
-          filter: grayscale(100%) contrast(200%) !important;
-  border-radius: 5px !important;
-  padding-bottom: 0 !important;
-  margin-bottom: 12px !important;
 }
