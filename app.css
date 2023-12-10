@@ -769,7 +769,7 @@ MISCELLANEOUS
 .main-playlistEditDetailsModal-save > button > span:hover,
 .main-duplicateTrackModal-buttonContainer > button > span:hover {
   background-color: #ffffff !important;
-  box-shadow:  0px 0px 15px 5px rgba(46, 229, 157, 0.4);
+  box-shadow:  0px 0px 15px 5px rgb(255, 255, 255);
   transform: scale(1) !important;
 }
 
