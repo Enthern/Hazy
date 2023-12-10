@@ -2,7 +2,7 @@
   --backdrop: rgba(0,0,0,0.3);
   --button-border: 8px;
   --spice-text: #FFFFFF;
-  --spice-button: #30bf63
+  --spice-button: #FFFFFF
 }
 
 svg {
@@ -171,8 +171,8 @@ NOW PLAYING BAR
 
 .progress-bar {
   --bg-color: rgba(255,555,255,.2);
-  --fg-color: #1db954;
-  --is-active-fg-color: #2bc260;
+  --fg-color: #ffffff;
+  --is-active-fg-color: #ffffff;
 }
 
 .progress-bar__slider {
@@ -757,7 +757,7 @@ MISCELLANEOUS
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 2.5px;
-  background-color: rgb(66 180 114);
+  background-color: rgb(255, 255, 255);
   border: none;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease 0s;
@@ -768,7 +768,7 @@ MISCELLANEOUS
 
 .main-playlistEditDetailsModal-save > button > span:hover,
 .main-duplicateTrackModal-buttonContainer > button > span:hover {
-  background-color: #23c483 !important;
+  background-color: #ffffff !important;
   box-shadow:  0px 0px 15px 5px rgba(46, 229, 157, 0.4);
   transform: scale(1) !important;
 }
@@ -1514,7 +1514,7 @@ span.toggle.enabled {
 
 #home-save:hover {
   background-color: var(--spice-button);
-  box-shadow:  0px 0px 15px 5px rgba(46, 229, 157, 0.4);
+  box-shadow:  0px 0px 15px 5px rgba(255, 255, 255, 0.4);
 }
 
 #value-reset:hover {
