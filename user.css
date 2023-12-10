@@ -9,18 +9,6 @@
   fill: var(--spice-heart) !important;
 }
 
-.__color, .HbKLiGoYM4dpuK8L4TMX, .connect-device-list-item--active,
-.connect-device-list-item--active *,
-.control-button--active,
-.main-repeatButton-button[aria-checked="true"],
-.main-repeatButton-button[aria-checked="mixed"],
-.main-shuffleButton-button[aria-checked="true"],
-button[aria-label="Playing"],
-.control-button--active-dot:after {
-  color: var(--spice-color) !important;
-  fill: var(--spice-color) !important;
-}
-
 .control-button-heart:hover,
 .main-addButton-active:hover {
   opacity: 0.75 !important;
